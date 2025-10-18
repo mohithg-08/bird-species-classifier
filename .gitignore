@@ -1,0 +1,9 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+
+# Large datasets and models
+*.h5
+CUB_200_2011/ 
